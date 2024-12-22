@@ -8,7 +8,7 @@
 
 [comment]: <> (About Me)
 <h2 align="center">__ About Me __</h2>
-<h3 align="center"> 🚀Passionate Software Developer |💻Mastered HTML, CSS, JavaScript, TypeScript, React, MERN & Next js |&nbsp;🛠️&nbsp;Currently, working on Problem Solving 📖 | 🎯 Solved 150+ leetcode problems 🔥🔥 |</br> 🏅 Also participating in Hackathons 🏆 |  👥 Open to Collaboration and <strong>Learning</strong>👨🏻‍💻</h3>
+<h3 align="center"> 🚀Passionate Software Developer |💻Mastered MERN & Next js, TypeScript, |&nbsp;🛠️&nbsp;Currently, working on Problem Solving skill 📖 | 🎯 Solved 170+ leetcode problems 🔥🔥 |</br> 🏅 Also participating in Hackathons 🏆 |  👥 Ready for Collaboration and <strong>Learning</strong>👨🏻‍💻</h3>
 
 <img align="right" alt="coding" width="450" src="https://i.imgur.com/GezCVzO.gif" >
  <br>
@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, MERN Stack, Next Js**
+- 💬 Ask me about **MERN Stack, Next Js, TypeScript**
 
 - 📫 How to reach me **mycomputer2214@gmail.com**
  <br> <br>
@@ -73,7 +73,9 @@ Leetcode window
 <p align="center">
     <img style="width: 50%;" src="https://leetcard.jacoblin.cool/ARslan_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
 </p>
+
 #
+
 <br>
 -->
 

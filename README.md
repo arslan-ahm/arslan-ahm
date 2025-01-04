@@ -64,14 +64,12 @@
 </div>
 
 <br>
- 
-[comment]: <> (Status Section)
- <h2 align="center">⚡ Stats ⚡</h2>
+
+ [comment]: <> (Status Section)
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <!--
 Leetcode window
-
--->
 
 <p align="center">
     <img style="width: 50%;" src="https://leetcard.jacoblin.cool/ARslan_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
@@ -80,24 +78,16 @@ Leetcode window
 #
 
 <br>
-
+-->
 
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=arslan-ahm&show_icons=true&theme=onedark">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arslan-ahm&layout=compact&theme=onedark" />
+  <img width="385px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan-ahm&layout=compact&theme=onedark" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=arslan-ahm&theme=github">
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=arslan-ahm&theme=onedark" />
 </div>
 
-
 ##
-
-<!-- 
-## My Rewards 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Arslan2214&theme=onedark&no-bg=true" alt="Trophies">
-</div>
--->
 
 [comment]: <> (Ending section)
 <p align="center">
@@ -107,4 +97,3 @@ Leetcode window
     <a href="https://linkedin.com/in/arslan-ahmad-dev">Let's talk</a>🙃
   </span>
 </p>
-

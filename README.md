@@ -70,6 +70,7 @@
 <br>
 <!--
 Leetcode window
+-->
 
 <p align="center">
     <img style="width: 50%;" src="https://leetcard.jacoblin.cool/ARslan_?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Card" />
@@ -78,7 +79,6 @@ Leetcode window
 #
 
 <br>
--->
 
 <div align="center">
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=arslan-ahm&show_icons=true&theme=onedark">

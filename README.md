@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **MERN Stack, Next Js, TypeScript**
+- 💬 Ask me about **MERN Stack, React-Native, Next Js, TypeScript**
 
 - 📫 How to reach me **mycomputer2214@gmail.com**
  <br> <br>

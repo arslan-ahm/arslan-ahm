@@ -6,6 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=5000&lines=Hi+There!+👋;+I'm+ARslan+Ahmad!;+Software+Developer,+Ready+to+Collaborate...+🙃&color=3C99D4" />
 </h1>
 
+
 [comment]: <> (About Me)
 <h2 align="center">__ About Me __</h2>
 <h3 align="center"> 🚀Passionate Software Developer |💻Mastered MERN & Next js, TypeScript, |&nbsp;🛠️&nbsp;Currently, working on Problem Solving skill 📖 | 🎯 Solved 200+ leetcode problems 🔥🔥 |</br> 🏅 Also participating in Hackathons 🏆 |  👥 Ready for Collaboration and <strong>Learning</strong>👨🏻‍💻</h3>

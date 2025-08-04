@@ -13,8 +13,8 @@
 
 <img align="right" alt="coding" width="450" src="https://i.imgur.com/GezCVzO.gif" >
  <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslan-ahm&label=Profile%20views&color=0e75b6&style=flat" alt="arslan-ahm" /> </p>
+
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
@@ -41,6 +41,11 @@
   </a>
 </p>
  <br>
+ 
+<!--
+![Profile Views](https://komarev.com/ghpvc/?username=arslan-ahm&color=brightgreen&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/arslan-ahm?style=for-the-badge&color=blue)
+-->
 
 [comment]: <> (Languages Section)
 <div>
